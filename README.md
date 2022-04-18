@@ -1,8 +1,7 @@
 # Hi There, Tobi here ✌
 
 
-### Junior Android Developer
-### Data Enthusiast
+### Junior Android Developer | Data Enthusiast
 
 #### I'm still learning:
 * Java
