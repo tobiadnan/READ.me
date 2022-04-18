@@ -1,14 +1,14 @@
 # Hi There, Tobi here ✌
 
 
-### Mobile Development Enthusiast
+### Junior Android Developer
+### Data Enthusiast
 
-#### I'm currently learning:
+#### I'm still learning:
 * Java
-* Kotlin
-* Flutter/Dart
+* Python
+* Data Viz
  
 #### Reach Me
 > | [LinkedIn](https://www.linkedin.com/in/tobyadnan/) | 
-> [Twitter](https://twitter.com/tobyadnan/) | 
-> [Instagram](https://instagram.com/tobyadnan/) |
+> [Instagram](https://instagram.com/tbystrove/) |
