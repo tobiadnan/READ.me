@@ -4,10 +4,10 @@
 ### Junior Android Developer | Data Enthusiast
 
 #### I'm still learning:
-* Java
-* Python
-* Data Viz
+* Data Science
+* UI Design
+* Web Laravel
  
 #### Reach Me
 > | [LinkedIn](https://www.linkedin.com/in/tobyadnan/) | 
-> [Instagram](https://instagram.com/tbystrove/) |
+> [Instagram](https://instagram.com/tobyadnan/) |
