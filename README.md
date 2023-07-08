@@ -1,12 +1,9 @@
 # Hi There, Tobi here ✌
 
 
-### Junior Android Developer | Data Enthusiast
+### Data Enthusiast
 
-#### I'm still learning:
-* Data Science
-* UI Design
-* Web Laravel
+#### Wait I'm still learning...
  
 #### Reach Me
 > | [LinkedIn](https://www.linkedin.com/in/tobyadnan/) | 
