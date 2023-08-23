@@ -16,7 +16,7 @@
 - 🧞 I'm a Tech and Data Enthusiast.
 - 🔭 I'm a fresh graduate looking for opportunities.
 - 👯 I'm looking to opportunity in Data and I don't rule out the possibility to collaborate with Fullstack Web and UI/UX projects.
-- 🏸 I'm not that good, but I Badminton.
+- 🏸 I'm not that good, but I love Badminton.
 <br>
 
 ---
